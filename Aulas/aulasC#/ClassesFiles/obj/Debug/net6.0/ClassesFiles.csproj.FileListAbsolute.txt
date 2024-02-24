@@ -1,0 +1,14 @@
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.AssemblyInfoInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.AssemblyInfo.cs
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.csproj.CoreCompileInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\bin\Debug\net6.0\ClassesFiles.exe
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\bin\Debug\net6.0\ClassesFiles.deps.json
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\bin\Debug\net6.0\ClassesFiles.runtimeconfig.json
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\bin\Debug\net6.0\ClassesFiles.dll
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\bin\Debug\net6.0\ClassesFiles.pdb
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.dll
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\refint\ClassesFiles.dll
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.pdb
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ClassesFiles.genruntimeconfig.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesFiles\obj\Debug\net6.0\ref\ClassesFiles.dll

@@ -1,0 +1,14 @@
+C:\.WorkSpace\Aulas\aulasC#\toBinary\bin\Debug\net6.0\toBinary.exe
+C:\.WorkSpace\Aulas\aulasC#\toBinary\bin\Debug\net6.0\toBinary.deps.json
+C:\.WorkSpace\Aulas\aulasC#\toBinary\bin\Debug\net6.0\toBinary.runtimeconfig.json
+C:\.WorkSpace\Aulas\aulasC#\toBinary\bin\Debug\net6.0\toBinary.dll
+C:\.WorkSpace\Aulas\aulasC#\toBinary\bin\Debug\net6.0\toBinary.pdb
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.AssemblyInfoInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.AssemblyInfo.cs
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.csproj.CoreCompileInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.dll
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\refint\toBinary.dll
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.pdb
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\toBinary.genruntimeconfig.cache
+C:\.WorkSpace\Aulas\aulasC#\toBinary\obj\Debug\net6.0\ref\toBinary.dll

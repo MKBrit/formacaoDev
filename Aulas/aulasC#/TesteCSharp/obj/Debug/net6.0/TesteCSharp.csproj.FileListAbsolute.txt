@@ -1,0 +1,14 @@
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\bin\Debug\net6.0\TesteCSharp.exe
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\bin\Debug\net6.0\TesteCSharp.deps.json
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\bin\Debug\net6.0\TesteCSharp.runtimeconfig.json
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\bin\Debug\net6.0\TesteCSharp.dll
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\bin\Debug\net6.0\TesteCSharp.pdb
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.AssemblyInfoInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.AssemblyInfo.cs
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.csproj.CoreCompileInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.dll
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\refint\TesteCSharp.dll
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.pdb
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\TesteCSharp.genruntimeconfig.cache
+C:\.WorkSpace\Aulas\aulasC#\TesteCSharp\obj\Debug\net6.0\ref\TesteCSharp.dll

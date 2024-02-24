@@ -1,0 +1,2 @@
+C:\zzzAulaJAVA6out\asedf\x64\Debug\asedf.exe
+C:\.Aulas\asedf\x64\Debug\asedf.exe

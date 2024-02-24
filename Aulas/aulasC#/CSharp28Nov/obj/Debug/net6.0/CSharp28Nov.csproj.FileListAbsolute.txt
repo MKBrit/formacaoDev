@@ -1,0 +1,14 @@
+C:\zzzAulaJAVA6out\CSharp28Nov\bin\Debug\net6.0\CSharp28Nov.exe
+C:\zzzAulaJAVA6out\CSharp28Nov\bin\Debug\net6.0\CSharp28Nov.deps.json
+C:\zzzAulaJAVA6out\CSharp28Nov\bin\Debug\net6.0\CSharp28Nov.runtimeconfig.json
+C:\zzzAulaJAVA6out\CSharp28Nov\bin\Debug\net6.0\CSharp28Nov.dll
+C:\zzzAulaJAVA6out\CSharp28Nov\bin\Debug\net6.0\CSharp28Nov.pdb
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.AssemblyInfoInputs.cache
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.AssemblyInfo.cs
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.csproj.CoreCompileInputs.cache
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.dll
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\refint\CSharp28Nov.dll
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.pdb
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\CSharp28Nov.genruntimeconfig.cache
+C:\zzzAulaJAVA6out\CSharp28Nov\obj\Debug\net6.0\ref\CSharp28Nov.dll

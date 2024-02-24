@@ -1,0 +1,14 @@
+C:\.WorkSpace\Aulas\aulasC#\exLists\bin\Debug\net6.0\exLists.exe
+C:\.WorkSpace\Aulas\aulasC#\exLists\bin\Debug\net6.0\exLists.deps.json
+C:\.WorkSpace\Aulas\aulasC#\exLists\bin\Debug\net6.0\exLists.runtimeconfig.json
+C:\.WorkSpace\Aulas\aulasC#\exLists\bin\Debug\net6.0\exLists.dll
+C:\.WorkSpace\Aulas\aulasC#\exLists\bin\Debug\net6.0\exLists.pdb
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.AssemblyInfoInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.AssemblyInfo.cs
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.csproj.CoreCompileInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.dll
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\refint\exLists.dll
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.pdb
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\exLists.genruntimeconfig.cache
+C:\.WorkSpace\Aulas\aulasC#\exLists\obj\Debug\net6.0\ref\exLists.dll

@@ -1,0 +1,14 @@
+C:\zzzAulaJAVA6out\CSharp13Dez\bin\Debug\net6.0\CSharp13Dez.exe
+C:\zzzAulaJAVA6out\CSharp13Dez\bin\Debug\net6.0\CSharp13Dez.deps.json
+C:\zzzAulaJAVA6out\CSharp13Dez\bin\Debug\net6.0\CSharp13Dez.runtimeconfig.json
+C:\zzzAulaJAVA6out\CSharp13Dez\bin\Debug\net6.0\CSharp13Dez.dll
+C:\zzzAulaJAVA6out\CSharp13Dez\bin\Debug\net6.0\CSharp13Dez.pdb
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.GeneratedMSBuildEditorConfig.editorconfig
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.AssemblyInfoInputs.cache
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.AssemblyInfo.cs
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.csproj.CoreCompileInputs.cache
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.dll
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\refint\CSharp13Dez.dll
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.pdb
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\CSharp13Dez.genruntimeconfig.cache
+C:\zzzAulaJAVA6out\CSharp13Dez\obj\Debug\net6.0\ref\CSharp13Dez.dll

@@ -1,0 +1,14 @@
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\bin\Debug\net6.0\ClassesIndexação.exe
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\bin\Debug\net6.0\ClassesIndexação.deps.json
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\bin\Debug\net6.0\ClassesIndexação.runtimeconfig.json
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\bin\Debug\net6.0\ClassesIndexação.dll
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\bin\Debug\net6.0\ClassesIndexação.pdb
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.GeneratedMSBuildEditorConfig.editorconfig
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.AssemblyInfoInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.AssemblyInfo.cs
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.csproj.CoreCompileInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.dll
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\refint\ClassesIndexação.dll
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.pdb
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ClassesIndexação.genruntimeconfig.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesIndexação\obj\Debug\net6.0\ref\ClassesIndexação.dll

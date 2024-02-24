@@ -1,0 +1,65 @@
+/* _content/MvcViaturas0/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+/* Navbar Brand Styles */
+a.navbar-brand[b-y7pqir9l9n] {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+/* Primary Button Styles */
+.btn-primary[b-y7pqir9l9n] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Active Link Styles in Nav Pills */
+.nav-pills .nav-link.active[b-y7pqir9l9n],
+.nav-pills .show > .nav-link[b-y7pqir9l9n] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+/* Border Styles */
+.border-top[b-y7pqir9l9n] {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom[b-y7pqir9l9n] {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+/* Box Shadow Styles */
+.box-shadow[b-y7pqir9l9n] {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Accept Policy Button Styles */
+button.accept-policy[b-y7pqir9l9n] {
+    font-size: 1rem; /* Adjusted font size */
+    line-height: inherit;
+}
+
+/* Footer Styles */
+.footer[b-y7pqir9l9n] {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}
+
+/* Body Styles */
+body[b-y7pqir9l9n] {
+    font-family: 'Comic Sans MS', cursive;
+    background-color: #ff0000; /* Red background color */
+}
+
+/* Custom Text Color Class */
+.text-red[b-y7pqir9l9n] {
+    color: red;
+}

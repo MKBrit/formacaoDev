@@ -1,0 +1,43 @@
+using System;
+
+namespace Lambda
+{
+    class Program
+    { 
+        static void Main(string[] args)
+        {
+
+            //Expressoes Lambda
+
+            //parametros => expressão
+
+            //declarar uma expressão lambda
+            Func<int, int> dobrar = num => num * 2;
+
+            //Utilização da expressão lambda
+            int resultado = dobrar(5);
+            Console.WriteLine(resultado);
+
+            //Lista de nr
+            List<int> numeros = new List<int> { 1,2,3,4,5,6,7,8,9,10};
+
+            //filtrar os nr pares usando uma expressao lambda em C#
+            List<int> pares= numeros.Where(num => num % 2 == 0).ToList();
+            
+            foreach (int numPares in pares)
+            {
+                Console.WriteLine(numPares);
+            }
+
+            //declarar uma expressao lambda com corpo de bloco
+            Func<int, int> calcQuadrado = num =>
+            {
+                int quadrado = num * num;
+                return quadrado;
+            };
+
+            int result2 = calcQuadrado(4);
+            Console.WriteLine(result2);
+        }
+    }
+}

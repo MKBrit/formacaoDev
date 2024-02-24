@@ -1,0 +1,4 @@
+C:\.WorkSpace\Aulas\aulasC#\ClassesAbst\obj\Debug\net6.0\ClassesAbst.GeneratedMSBuildEditorConfig.editorconfig
+C:\.WorkSpace\Aulas\aulasC#\ClassesAbst\obj\Debug\net6.0\ClassesAbst.AssemblyInfoInputs.cache
+C:\.WorkSpace\Aulas\aulasC#\ClassesAbst\obj\Debug\net6.0\ClassesAbst.AssemblyInfo.cs
+C:\.WorkSpace\Aulas\aulasC#\ClassesAbst\obj\Debug\net6.0\ClassesAbst.csproj.CoreCompileInputs.cache
