@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Editar2.aspx.cs" Inherits="seilaquantasando.Editar2" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Editar2.aspx.cs" Inherits="tecnobispo.Editar2" %>
 
 <!DOCTYPE html>
 

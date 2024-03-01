@@ -6,7 +6,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace seilaquantasando
+namespace tecnobispo
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
@@ -16,7 +16,7 @@ namespace seilaquantasando
             SqlConnection con;
 
             // Connection string
-            connetionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\zzzAulaJAVA6out\seilaquantasando\App_Data\Database1.mdf;Integrated Security=True";
+            connetionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\.WorkSpace\formacaoDev\Aulas\aspNetCore\App_Data\Database1.mdf;Integrated Security=True";
             con = new SqlConnection(connetionString);
 
             // Open the connection

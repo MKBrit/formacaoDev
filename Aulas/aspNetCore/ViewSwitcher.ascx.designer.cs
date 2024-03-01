@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace seilaquantasando {
+namespace tecnobispo {
     
     
     public partial class ViewSwitcher {

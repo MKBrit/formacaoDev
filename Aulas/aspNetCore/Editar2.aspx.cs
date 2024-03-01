@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace seilaquantasando
+namespace tecnobispo
 {
     public partial class Editar2 : System.Web.UI.Page
     {
@@ -17,7 +17,7 @@ namespace seilaquantasando
             txt_id.Text = Request.QueryString["Id"];
             string connetionString;
             SqlConnection con;
-            connetionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\zzzAulaJAVA6out\seilaquantasando\App_Data\Database1.mdf;Integrated Security=True";
+            connetionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\.WorkSpace\formacaoDev\Aulas\aspNetCore\App_Data\Database1.mdf;Integrated Security=True";
             con = new SqlConnection(connetionString);
             con.Open();
             SqlCommand command;
@@ -39,7 +39,7 @@ namespace seilaquantasando
             string connetionString;
             SqlConnection con;
             // veja a imagem abaixo para saber onde vai buscar o caminho da conexão
-            connetionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\zzzAulaJAVA6out\seilaquantasando\App_Data\Database1.mdf;Integrated Security=True";
+            connetionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\.WorkSpace\formacaoDev\Aulas\aspNetCore\App_Data\Database1.mdf;Integrated Security=True";
             con = new SqlConnection(connetionString);    
             con.Open();
             // Response.Write("Ligado com sucesso!");

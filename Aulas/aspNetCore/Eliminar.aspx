@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Eliminar.aspx.cs" Inherits="seilaquantasando.Eliminar" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Eliminar.aspx.cs" Inherits="tecnobispo.Eliminar" %>
 
 <!DOCTYPE html>
 

@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace seilaquantasando
+namespace tecnobispo
 {
     public partial class SiteMaster : MasterPage
     {

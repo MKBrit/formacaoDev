@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Inserir.aspx.cs" Inherits="seilaquantasando.Inserir" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Inserir.aspx.cs" Inherits="tecnobispo.Inserir" %>
 
 <!DOCTYPE html>
 

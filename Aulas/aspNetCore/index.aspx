@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="seilaquantasando.index" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="tecnobispo.index" %>
 
 <!DOCTYPE html>
 
@@ -12,7 +12,7 @@
             <img width="200" src="download.jpeg" /><br /><br />
             <asp:Button ID="btn_inserir" runat="server" text="Inserir" OnClick="btn_inserir_Click" />&nbsp;
             <asp:Button ID="btn_listar" runat="server" text="Listar" OnClick="btn_listar_Click" />&nbsp;
-            <asp:Button ID="btn_editar" runat="server" text="Editar" OnClick="btn_editar_Click" />;
+            <asp:Button ID="btn_editar" runat="server" text="Editar" OnClick="btn_editar_Click" />
         </div>
     </form>
 </body>
