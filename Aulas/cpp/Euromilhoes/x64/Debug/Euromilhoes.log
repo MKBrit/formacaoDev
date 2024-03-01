@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Life Data\EFA NS PRO Programador\Renato\Repos\Euromilhoes\Source.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Euromilhoes.vcxproj -> C:\Life Data\EFA NS PRO Programador\Renato\Repos\Euromilhoes\x64\Debug\Euromilhoes.exe

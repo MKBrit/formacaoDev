@@ -1,0 +1,44 @@
+#include <iostream>
+#include <locale>
+using namespace std;
+
+int main(){
+	setlocale(LC_ALL, "pt_PT");
+
+	/*
+	// Programa para calcular segundos em horas
+	int segundos;	
+	cout << "introduza os segundos a converter em horas: " << endl;
+	cin >> segundos;
+
+	int horas = segundos / 3600;
+	int minutos = (segundos % 3600) / 60;
+	cout << segundos << " segundos em horas são " << horas << " horas e " << minutos << " minutos" << endl;
+	*/
+
+	/*
+	// Programa para calcular o IVA
+	int preço;
+	cout << "Introduza o preço a calcular com o IVA: " << endl;
+	cin >> preço;
+
+	int total = (preço*0.23) + preço;
+	int iva = preço * 0.23;
+	cout << "O total com IVA é de " << total << "€.\n" << "O total do IVA é de " << iva << "€.\n" << "O total sem IVA é de " << preço<< "€.\n" << endl;
+	*/
+
+	int preco;
+
+	cout << "Introduza o preço: " << endl;
+	cin >> preco;
+
+	float desconto;
+	cout << "Introduza a taxa do desconto: " << endl;
+	cin >> desconto;
+	float percentagemDesconto = desconto / 100.0;
+	float descontoTotal= preco * percentagemDesconto;
+	float total = preco - descontoTotal;
+	cout << "O valor total é de: " << total << ", o desconto é de: " << desconto << " e o valor do produto sem desconto é de: " << preco << endl;
+
+	return 0;
+}

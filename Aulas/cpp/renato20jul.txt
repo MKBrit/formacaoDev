@@ -1,0 +1,19 @@
+//Miguel Brito - tarefa 20/07 Renato Cpp
+#include <iostream>
+#include <string>
+#include <locale>
+using namespace std;
+
+int main() {
+    setlocale(LC_ALL, "portuguese");
+    int n,total;
+    cout << "Introduza um nr a calcular o !?fatorial!? \n";
+    cin >> n;
+    int i=n;
+    while( i>0){
+          total = total+ (n*i);
+          i--;
+    }
+    cout << total;
+    return 0;
+}

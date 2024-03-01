@@ -1,0 +1,13 @@
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.vbproj.SuggestedBindingRedirects.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,30 @@
+#include <iostream>
+using namespace std;
+
+class Rect {
+    private:
+        float alt;
+        float base;
+    public:
+        Rect(float height, float width) : alt(height), base(width) {} //continuo sem perceber o sentido disto
+
+        float getArea() {
+            return alt * base;
+        }
+};
+
+int main() {
+    float alt;
+    float base;
+    Rect newRect(alt, base); //pq isto tem de ficar aqui depois
+
+    cout << "Introduza a altura: " << endl;
+    cin >> alt;
+    cout << "Introduza a base: " << endl;
+    cin >> base;
+
+    float area = newRect.getArea();
+    cout << "A área do rectângulo é de: " << area << endl;
+
+    return 0;
+}

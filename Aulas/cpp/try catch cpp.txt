@@ -1,0 +1,44 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+
+
+float avg(float a, float b, float c) {
+    return ((a + b + c) / 3);
+}
+
+
+
+int main() {
+    float mat;
+    float ing;
+    float his;
+    while (true) {
+        cout << "Vamos Calcular a média de 3 disciplinas" << endl;
+        try {
+            cout << "Introduza a nota de Matemática: ";
+            cin >> mat;
+            if (mat < 0 || mat > 20) {
+                throw 1;
+            }
+            cout << "Introduza a nota de Inglês: ";
+            cin >> ing;
+            if (ing < 0 || ing > 20) {
+                throw 2;
+            }
+            cout << "Introduza a nota de História: ";
+            cin >> his;
+            if (his < 0 || his > 20) {
+                throw 3;
+            }
+        }
+        catch (int e) {
+            cout << "Erro na entrada de dados para a disciplina " << e << endl;
+            return 1;
+        }
+        cout << "A média das 3 disciplinas é de " << avg(mat, ing, his) << endl << endl;
+        mat, his, ing = 0;
+    }
+return 0;
+}

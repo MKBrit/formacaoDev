@@ -1,0 +1,11 @@
+1. SCRUM
+Imagino este ambiente de trabalho como fast-paced e talvez stressante, o facto de ter dead-line, fazer sprints e talvez terminar uma parte do projeto, mas nao ficou perfeito, na minha cabeça iria perdurar essa imperfeição e muito provavelmente afetar todo o resto do meu desempenho ao longo do projeto.
+
+2. FDD
+Como trabalhas em grupos de equipas focadas em certas funcionalidades consigo ver isso como extremamente gratificante ao longo do projeto inteiro, ao conseguir ver resultados quase como passo a passo, depois ajudando ao facto de termos um grupo dentro de toda a equipa, dedicado cada um a uma funcionalidade, tem a sua piada e competitividade, o que também acaba por proporcionar excelencia ou record-breaking e evluçao
+
+3. XP
+Aqui seria ideal para o junior developer, para quem está ou continua a aprender, mas ao mesmo tempo, vejo o cliente ou stressado/impaciente, ou completamente dedicado ao projeto. Nao sei porque mas imagino como o que pode ser um sonho ou um pesadelo para trabalhar
+
+4. KANBAN
+Aqui imagino um ambiente muito isolado e self-paced

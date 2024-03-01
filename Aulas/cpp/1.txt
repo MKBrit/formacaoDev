@@ -1,0 +1,44 @@
+1:
+set autocommit = off;
+start transaction;
+
+insert into tab_marcacoes (data, hora, codigo_medico, codigo_paciente) VALUES ('2023-11-07', '14:30:00', 1, 2);
+
+select * from tab_marcacoes where data = '2023-11-07' and hora = '14:30'
+
+commit;
+
+#rollback;
+
+
+
+2: ###### Continua com erro ########
+
+delimiter//
+create procedure inserirMedico()
+begin
+declare erro tinyint default false//
+declare continue handler for sqlexception set erro = true//
+
+start transaction;
+	insert into tab_especialidades (preco_consulta, especialidade, codigo_especialidade) values (150.00, "Radiologia", 7);
+	insert into tab_medicos (codigo_especialidade, codigo_medico, nome) values (null, 11, "Hugo Machado");
+    insert into tab_pacientes (codigo_paciente, nome, observacoes) values (6, "Joãozinho", "Partiu o pé");
+    
+    if erro = False then
+        commit;
+        select "Transação efetivada com sucesso." as resultado;
+    else
+        rollback;
+        select "Erro na transação" as resultado;
+	end if;
+    
+select * from tab_especialidades;
+select * from tab_medicos;
+select * from tab_pacientes;
+
+end//
+
+delimiter ;
+
+

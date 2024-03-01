@@ -1,0 +1,80 @@
+#include <iostream>
+#include <locale>
+using namespace std;
+
+int main() {
+	setlocale(LC_ALL, "pt_PT");
+
+  /*int a = 1, b = 4, c = 3;
+
+    if (a > b) {
+        int troca = a;
+        a = b;
+        b = troca;
+    }
+    if (a > c) {
+        int troca = a;
+        a = c;
+        c = troca;
+    }
+    if (b > c) {
+        int troca = b;
+        b = c;
+        c = troca;
+    }    
+    cout << a << ", " << b << ", " << c << endl;*/
+
+  /*float salarioBruto, irs;
+
+    cout << "Introduza o seu salário bruto: " ;
+    cin >> salarioBruto;
+
+    if (salarioBruto <= 500)    
+    irs = 0;    
+    else if (salarioBruto <= 1000)    
+    irs = 0.12 * salarioBruto;
+    else if (salarioBruto <= 1500)    
+    irs = 0.15 * salarioBruto;
+    else    
+    irs = 0.18 * salarioBruto;    
+
+    float segSocial = 0.2 * salarioBruto;
+  
+    cout << "\nSalário bruto:  " << salarioBruto << " euros\nDesconto da Seg Social: " << segSocial << " euros\nDesconto do IRS: " << irs 
+<< " euros\nTotal de descontos: " << segSocial + irs << " euros\nSalário líquido: " << salarioBruto - (segSocial + irs) << " euros" << endl;
+
+    return 0;*/
+
+    int idd1, idd2, idd3;
+
+    cout << "Introduza a 1ª idade: " << endl;
+    cin >> idd1;
+
+    if (idd1 <= 0) {
+        cout << "Erro..." << endl;
+        return 0;
+    }
+    cout << "Introduza a 2ª idade: " << endl;
+    cin >> idd2;
+
+    if (idd2 <= 0) {
+        cout << "Erro..." << endl;
+        return 0;
+    }
+    cout << "Introduza a 3ª idade: " << endl;
+    cin >> idd3;
+
+    if (idd3 <= 0) {
+        cout << "Erro..." << endl;
+        return 0;
+    }
+    int media = (idd1 + idd2 + idd3) / 3;
+
+    if (media <= 25)
+        cout << "Tem uma turma jovem" << endl;
+    else if (media <= 60)
+        cout << "Tem uma turma adulta" << endl;
+    else
+        cout << "Tem uma turma sénior" << endl;
+
+}

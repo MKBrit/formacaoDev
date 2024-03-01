@@ -1,0 +1,36 @@
+C:\Users\Formação\Desktop\demo6\demo6\bin\Debug\net6.0-windows\demo6.exe
+C:\Users\Formação\Desktop\demo6\demo6\bin\Debug\net6.0-windows\demo6.deps.json
+C:\Users\Formação\Desktop\demo6\demo6\bin\Debug\net6.0-windows\demo6.runtimeconfig.json
+C:\Users\Formação\Desktop\demo6\demo6\bin\Debug\net6.0-windows\demo6.dll
+C:\Users\Formação\Desktop\demo6\demo6\bin\Debug\net6.0-windows\demo6.pdb
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.vbproj.AssemblyReference.cache
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.Form1.resources
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.Resources.resources
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.vbproj.GenerateResource.cache
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.AssemblyInfoInputs.cache
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.AssemblyInfo.vb
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.vbproj.CoreCompileInputs.cache
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.dll
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\refint\demo6.dll
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.pdb
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\demo6.genruntimeconfig.cache
+C:\Users\Formação\Desktop\demo6\demo6\obj\Debug\net6.0-windows\ref\demo6.dll
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\bin\Debug\net6.0-windows\demo6.exe
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\bin\Debug\net6.0-windows\demo6.deps.json
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\bin\Debug\net6.0-windows\demo6.runtimeconfig.json
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\bin\Debug\net6.0-windows\demo6.dll
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\bin\Debug\net6.0-windows\demo6.pdb
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.vbproj.AssemblyReference.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.Form1.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.Resources.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.vbproj.GenerateResource.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.AssemblyInfoInputs.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.AssemblyInfo.vb
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.vbproj.CoreCompileInputs.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.dll
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\refint\demo6.dll
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.pdb
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\demo6.genruntimeconfig.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo6\obj\Debug\net6.0-windows\ref\demo6.dll

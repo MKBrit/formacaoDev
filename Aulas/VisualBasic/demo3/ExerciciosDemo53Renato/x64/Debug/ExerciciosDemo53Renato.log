@@ -1,0 +1,3 @@
+﻿  ExerciciosDemo53Renato.cpp
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Life Data\EFA NS PRO Programador\Teotónio\demo3\ExerciciosDemo53Renato\x64\Debug\ExerciciosDemo53Renato.exe : fatal error LNK1120: 1 unresolved externals

@@ -1,0 +1,37 @@
+Folder PATH listing
+Volume serial number is 1A52-5249
+C:.
++---Documents
+¦   ¦   gcapi.dll
+¦   ¦   
+¦   +---AirDroidCast
+¦   ¦       info.txt
+¦   ¦       Settings.ini
+¦   ¦       
+¦   +---EMPRESS
+¦   ¦   ¦   dbdata.bin
+¦   ¦   ¦   
+¦   ¦   +---990080
+¦   ¦       +---remote
+¦   ¦       ¦   +---settings
+¦   ¦       ¦           account_name.txt
+¦   ¦       ¦           language.txt
+¦   ¦       ¦           listen_port.txt
+¦   ¦       ¦           user_steam_id.txt
+¦   ¦       ¦           
+¦   ¦       +---steam_settings
+¦   ¦               dlc.txt
+¦   ¦               steam_appid.txt
+¦   ¦               
+¦   +---Steam
+¦       +---CODEX
+¦           +---489830
+¦               ¦   achievements.ini
+¦               ¦   leaderboards.ini
+¦               ¦   
+¦               +---local
+¦               +---remote
++---Downloads
++---Music
++---Pictures
++---Videos

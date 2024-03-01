@@ -1,0 +1,87 @@
+#include <iostream>
+#include <locale>
+#include <cstring>
+using namespace std;
+
+
+int main() {
+    setlocale(LC_ALL, "portuguese");
+
+    char palavra[10];
+    cout << "Introduza uma palavra" << endl;
+    cin >> palavra;    
+    for (int i = strlen(palavra); i >= 0; i--){
+        cout << palavra[i];
+    }
+    return 0;
+}
+
+________________________________________________
+
+#include <iostream>
+#include <locale>
+#include <cstring>
+using namespace std;
+
+
+int main() {
+    setlocale(LC_ALL, "portuguese");
+
+    char palavra[60];
+    cout << "Introduza uma palavra" << endl;
+    cin.getline(palavra, 60);
+    for (int i = strlen(palavra); i >= 0; i--) {
+        cout << palavra[i];
+    }
+    cout << endl << endl;
+
+    int wordCount = 1;
+    for (int i = 0; i < strlen(palavra); i++) {
+        if (palavra[i] == ' ') {
+            wordCount++;
+        }
+    }
+    cout << "A frase que submeteu tem " << wordCount << " palavras";
+
+    return 0;
+}
+
+________________________________________________
+
+#include <iostream>
+#include <locale>
+#include <cstring>
+using namespace std;
+
+int main() {
+    setlocale(LC_ALL, "portuguese");
+
+    char palavra[60];
+    cout << "Introduza uma palavra" << endl;
+    cin.getline(palavra, 60);
+
+    for (int i = strlen(palavra) - 1; i >= 0; i--) {
+        switch (palavra[i]) {
+        case 'a':
+            palavra[i] = '2';
+            break;
+        case 'e':
+            palavra[i] = '3';
+            break;
+        case 'i':
+            palavra[i] = '4';
+            break;
+        case 'o':
+            palavra[i] = '5';
+            break;
+        case 'u':
+            palavra[i] = '6';
+            break;
+        default:
+            break;
+        }
+    }
+    cout << palavra;
+
+    return 0;
+}

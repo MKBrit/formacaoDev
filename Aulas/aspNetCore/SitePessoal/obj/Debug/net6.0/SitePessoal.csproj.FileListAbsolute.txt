@@ -1,0 +1,60 @@
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\appsettings.json
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\SitePessoal.staticwebassets.runtime.json
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\SitePessoal.exe
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\SitePessoal.deps.json
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\SitePessoal.runtimeconfig.json
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\SitePessoal.dll
+C:\Users\MigBr\Desktop\SitePessoal\bin\Debug\net6.0\SitePessoal.pdb
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.AssemblyInfoInputs.cache
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.AssemblyInfo.cs
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.csproj.CoreCompileInputs.cache
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.RazorAssemblyInfo.cache
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.RazorAssemblyInfo.cs
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.SitePessoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.build.SitePessoal.props
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SitePessoal.props
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SitePessoal.props
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\scopedcss\bundle\SitePessoal.styles.css
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\scopedcss\projectbundle\SitePessoal.bundle.scp.css
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.dll
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\refint\SitePessoal.dll
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.pdb
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\SitePessoal.genruntimeconfig.cache
+C:\Users\MigBr\Desktop\SitePessoal\obj\Debug\net6.0\ref\SitePessoal.dll
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\appsettings.Development.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\appsettings.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\SitePessoal.staticwebassets.runtime.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\SitePessoal.exe
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\SitePessoal.deps.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\SitePessoal.runtimeconfig.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\SitePessoal.dll
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\bin\Debug\net6.0\SitePessoal.pdb
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.AssemblyInfoInputs.cache
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.AssemblyInfo.cs
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.csproj.CoreCompileInputs.cache
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.MvcApplicationPartsAssemblyInfo.cache
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.RazorAssemblyInfo.cache
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.RazorAssemblyInfo.cs
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.SitePessoal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.build.SitePessoal.props
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SitePessoal.props
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SitePessoal.props
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\scopedcss\bundle\SitePessoal.styles.css
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\scopedcss\projectbundle\SitePessoal.bundle.scp.css
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.dll
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\refint\SitePessoal.dll
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.pdb
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\SitePessoal.genruntimeconfig.cache
+C:\Life Data\EFA NS PRO Programador\Rui HTML e JAVA\SitePessoal\obj\Debug\net6.0\ref\SitePessoal.dll

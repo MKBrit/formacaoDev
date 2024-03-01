@@ -1,0 +1,102 @@
+#include <iostream>
+#include <locale>
+using namespace std;
+
+double func(double input) {
+    double res=0.0, counter = 2.0;
+    int i = 1;
+        while (i <= input) {
+            res += 1.0 / (counter * i);
+            counter += 2.0;
+            i++;            
+        }
+    return res;
+}
+int main() {
+	setlocale(LC_ALL, "portuguese");
+    double in;
+    cout << "Introduza um nr" << endl;
+    cin >> in;
+    cout << func(in);
+    return 0;
+}
+
+____________________________________________________________________________________________________________
+
+#include <iostream>
+#include <locale>
+using namespace std;
+
+
+int main() {
+	setlocale(LC_ALL, "portuguese");
+    int pont[4];
+	for (int i = 0; i < 5; i++){
+		cout << endl << i+1 << "º Juíz introduza a pontuação de 0 a 9 " << endl ;
+		cin >> pont[i];
+		if (pont[i]<0 || pont[i]>9){
+			cout << endl << "Introduziu uma pontuação inválida" << endl << endl;
+			i--;
+		}	
+	}
+	cout << endl;
+	for (int x = 0; x < 5; x++){
+		cout << pont[x] << endl;
+	}
+    return 0;
+}
+
+____________________________________________________________________________________________________________
+
+#include <iostream>
+#include <locale>
+using namespace std;
+
+
+int main() {
+	setlocale(LC_ALL, "portuguese");
+	int vetor[4][4];
+	for (int x = 0; x < 4; x++){
+		int y = 0;
+		for (int y = 0; y < 4; y++){
+			cout << "Introduza elemento da linha " << x + 1 << ", da coluna" << y + 1 << endl;
+			cin >> vetor[x][y];
+		}
+	}
+	for (int x = 0; x < 4; x++){
+		int y = 0;
+		for (y = 0; y < 4; y++){
+		cout << vetor[x][y] << "\t";
+		}
+		cout << endl;
+	}	
+    return 0;
+}
+
+____________________________________________________________________________________________________________
+
+
+#include <iostream>
+#include <locale>
+using namespace std;
+
+
+int main() {
+	setlocale(LC_ALL, "portuguese");
+	int vetor[4][4];
+	for (int x = 0; x < 4; x++){
+		int y = 0;
+		for (int y = 0; y < 4; y++){
+			cout << "Introduza elemento da linha " << x + 1 << ", da coluna" << y + 1 << endl;
+			cin >> vetor[x][y];
+		}
+	}
+	for (int x = 0; x < 4; x++){
+		int y = 0;
+		for (y = 0; y < 4; y++){
+		cout << vetor[x][y] << "\t";
+		}
+		cout << endl;
+	}	
+    return 0;
+}

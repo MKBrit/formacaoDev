@@ -1,0 +1,28 @@
+public static void Main()
+{
+    while (true)
+    {
+        Console.WriteLine("Introduza um nr ");
+        string input = Console.ReadLine();
+
+        if (int.TryParse(input, out int nr))
+        {
+            if (nr % 2 == 0)
+            {
+                Console.WriteLine("O nr é par");
+            }
+            else
+            {
+                Console.WriteLine("O nr é ímpar");
+            }
+        }
+        else
+        {
+            Console.WriteLine("Ya dense....");
+        }
+        Console.WriteLine();
+
+
+
+    }
+}

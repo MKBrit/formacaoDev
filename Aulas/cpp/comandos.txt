@@ -1,0 +1,116 @@
+1.
+
+CREATE DATABASE BDVendas;
+
+
+Create TABLE Tab_vendedor(
+	ID_Vendedor SERIAL PRIMARY KEY,
+	Nome VARCHAR(50), 
+	codCidade INT,
+	Vencimento INT,
+	Comissao FLOAT);
+
+
+Create TABLE Tab_cidade(
+	codCidade SERIAL PRIMARY KEY,
+	descCidade VARCHAR(50));
+
+
+INSERT INTO tab_cidade (ID_Vendedor, Nome, codCidade, Vencimento, Comissao)
+VALUES
+    (5001, 'Andreia Silva', 2, 1000, 0.15),
+    (5002, 'Carla Costa', 1, 1200, 0.13),
+    (5003, 'Carlos Santos', 2, 1100, 0.13),
+    (5004, 'José Castro', 1, 1300, 0.14),
+    (5005, 'João Sousa', 3, 1000, 0.15),
+    (5006, 'Maria Silva', 3, 1100, 0.14),
+    (5007, 'Mário Sousa', 1, 1200, 0.13),
+    (5008, 'Pedro Santos', 2, 1100, 0.17)
+
+
+INSERT INTO tab_cidade (codCidade, descCidade)
+VALUES
+    (1, 'Porto'),
+    (2, 'Lisboa'),
+    (3, 'Madrid')    
+
+
+
+
+
+2.
+  a)
+
+CREATE VIEW view_comissao_013_015 AS
+SELECT COUNT(*) AS Total
+FROM Tab_vendedor
+WHERE Comissao BETWEEN 0.129 AND 0.151;
+
+
+ b)
+
+CREATE VIEW view_vendedoresPorto AS
+SELECT *
+FROM Tab_vendedor
+WHERE codCidade IN (SELECT codCidade FROM Tab_cidade WHERE descCidade = 'Porto')
+ORDER BY Nome DESC;
+
+
+ c)
+
+CREATE VIEW view_comissao_mais_alta AS
+SELECT Nome, Comissao
+FROM Tab_vendedor
+WHERE Comissao = (SELECT MAX(Comissao) FROM Tab_vendedor);
+
+
+ d)
+
+CREATE VIEW view_comissao_mais_alta_cidade AS
+SELECT Tab_cidade.descCidade, MAX(Tab_vendedor.Comissao) AS comissaoMaisAltaCidade
+FROM Tab_vendedor
+JOIN Tab_cidade ON Tab_vendedor.codCidade = Tab_cidade.codCidade
+GROUP BY Tab_cidade.descCidade;
+
+
+ e)
+
+CREATE VIEW view_ratoeira_senao_o_nome_ficava_muito_grande AS
+SELECT ID_Vendedor, Vencimento + (Vencimento * Comissao) AS Vencimentos
+FROM Tab_vendedor;
+
+
+
+
+
+3.
+ a)
+
+SELECT Tab_vendedor.Nome AS Nome_Vendedor, Tab_cidade.descCidade AS Cidade, view_ratoeira_senao_o_nome_ficava_muito_grande.Vencimentos
+FROM Tab_vendedor
+INNER JOIN Tab_cidade ON Tab_vendedor.codCidade = Tab_cidade.codCidade
+INNER JOIN view_ratoeira_senao_o_nome_ficava_muito_grande ON Tab_vendedor.ID_Vendedor = view_ratoeira_senao_o_nome_ficava_muito_grande.ID_Vendedor
+ORDER BY Tab_vendedor.Nome, Tab_cidade.descCidade;
+
+
+ b)
+
+SELECT Tab_vendedor.Nome AS Nome_Vendedor, Tab_cidade.descCidade AS Cidade, MAX(view_ratoeira_senao_o_nome_ficava_muito_grande.Vencimentos) AS ValorMax
+FROM Tab_vendedor
+INNER JOIN Tab_cidade ON Tab_vendedor.codCidade = Tab_cidade.codCidade
+INNER JOIN view_ratoeira_senao_o_nome_ficava_muito_grande ON Tab_vendedor.ID_Vendedor = view_ratoeira_senao_o_nome_ficava_muito_grande.ID_Vendedor
+GROUP BY Tab_vendedor.Nome, Tab_cidade.descCidade
+ORDER BY ValorMax DESC
+LIMIT 1;
+
+
+
+
+
+
+
+
+
+
+
+

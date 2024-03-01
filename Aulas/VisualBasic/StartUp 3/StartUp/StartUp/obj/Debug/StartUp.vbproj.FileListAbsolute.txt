@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\StartUp\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\User\source\repos\StartUp\StartUp\bin\Debug\StartUp.exe
+C:\Users\User\source\repos\StartUp\StartUp\bin\Debug\StartUp.pdb
+C:\Users\User\source\repos\StartUp\StartUp\bin\Debug\StartUp.xml
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.Form1.resources
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.Resources.resources
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.exe
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.xml
+C:\Users\User\source\repos\StartUp\StartUp\obj\Debug\StartUp.pdb

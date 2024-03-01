@@ -1,0 +1,30 @@
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.vbproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.Form1.resources
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.Resources.resources
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.vbproj.GenerateResource.cache
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.vbproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\bin\Debug\demo4.exe.config
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\bin\Debug\demo4.exe
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\bin\Debug\demo4.pdb
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\bin\Debug\demo4.xml
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.exe
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.xml
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.pdb
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.Form2.resources
+C:\Users\Utilizador\Desktop\ReposMiguel\demo4\obj\Debug\demo4.Form3.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.vbproj.AssemblyReference.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.vbproj.SuggestedBindingRedirects.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.Form1.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.Form2.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.Form3.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.Resources.resources
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.vbproj.GenerateResource.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.vbproj.CoreCompileInputs.cache
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.exe
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.xml
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\obj\Debug\demo4.pdb
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\bin\Debug\demo4.exe.config
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\bin\Debug\demo4.exe
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\bin\Debug\demo4.pdb
+C:\Life Data\EFA NS PRO Programador\Teotónio\Repos\demo4\bin\Debug\demo4.xml

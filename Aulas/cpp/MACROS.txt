@@ -1,0 +1,45 @@
+#include <iostream>
+using namespace std;
+
+#define DEBUG_MODE
+//#define LOGGING_ENABLED
+//#define RELEASE_BUILD
+//#define FEATURE_A
+//#define FEATURE_B
+
+
+int main() {
+#ifdef DEBUG_MODE
+    cout << "Modo depuração ativo" << endl;
+#endif
+#ifndef DEBUG_MODE
+    cout << "Modo depuração desativado" << endl;    
+#endif
+
+#ifdef LOGGING_ENABLED
+    cout << "Registo ativo" << endl;
+#endif
+#ifndef LOGGING_ENABLED
+    cout << "Registo desativado" << endl;
+#endif
+
+#ifdef RELEASE_BUILD
+    cout << "Esta é uma compilação de lançamento" << endl;
+#endif
+#ifndef RELEASE_BUILD
+    cout << "Esta não é uma compilação de lançamento" << endl;
+#endif
+
+#ifdef FEATURE_A
+    cout << "O recurso A está ativo" << endl;
+#else
+    cout << "O recurso A não está ativo" << endl;
+#endif
+#ifdef FEATURE_B
+    cout << "O recurso B está ativo" << endl;
+#else 
+    cout << "Nenhum recurso está ativo" << endl;
+#endif
+
+    return 0;
+}

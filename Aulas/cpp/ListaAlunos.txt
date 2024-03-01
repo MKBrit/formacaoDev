@@ -1,0 +1,162 @@
+#include <iostream>
+#include <string>
+#include <sstream>
+#include <vector>
+#include <stdexcept>
+#include <locale> 
+#include <cctype>
+#include <fstream>
+
+using namespace std;
+
+class Aluno {
+private:
+    string nome;
+    string curso;
+    int numero;
+    float media;
+
+public:
+    Aluno(string vNome, string vCurso, int vNumero, float vMedia) {
+        nome = vNome;
+        curso = vCurso;
+        numero = vNumero;
+        media = vMedia;
+    }
+
+    string getNome() { return nome; }
+    string getCurso() { return curso; }
+    int getNumero() { return numero; }
+    float getMedia() { return media; }
+
+    void setMedia(float novaMedia) {
+        media = novaMedia;
+    }
+
+    string getSigla(string nome) {
+        string siglas;
+        bool isSigla = true;
+        for (char letra : nome) {
+            if (isSigla && isalpha(letra)) {
+                siglas += toupper(letra);
+                isSigla = false;
+            }
+            else if (isspace(letra)) {
+                isSigla = true;
+            }
+        }
+        return siglas;
+    }
+};
+
+void leMedia(float media) {
+    while (true) {
+        try {
+            cout << "Digite a média: ";
+            cin >> media;
+            if (media < 0 || media > 20) {
+                throw 1;
+            }
+            break;
+        }
+        catch (int error) {
+            cout << "Error " << error << "\nTente novamente." << endl;
+        }
+    }
+}
+
+
+int main() {
+    setlocale(LC_ALL, "Portuguese");
+
+    vector<Aluno> turma;
+
+    while (true) {
+        cout << "\n::: Gestão de Aluno :::\n\n";
+        cout << "Escolha uma opção:\n";
+        cout << "1. Inserir aluno\n";
+        cout << "2. Listar alunos\n";
+        cout << "3. Alterar média de aluno\n";
+        cout << "4. Guardar em ficheiro .txt\n";
+        cout << "0. Sair\n";
+
+        int opcao;
+        cin >> opcao;
+
+        switch (opcao) {
+
+        case 1: {
+            cin.ignore(); 
+            string nome, curso;
+            int numero;
+            float media;
+
+            cout << "Nome do aluno: ";
+            getline(cin, nome);
+            cout << "Curso: ";
+            getline(cin, curso);
+            cout << "Número: ";
+            cin >> numero;
+
+            leMedia(media);
+
+            Aluno novoAluno(nome, curso, numero, media);
+            turma.push_back(novoAluno);
+            break; 
+        }
+        case 2: {
+            cout << "Lista de alunos: (sigla | nome | curso | número | média)" << endl;
+
+            for (Aluno aluno : turma) {
+                cout << aluno.getSigla(aluno.getNome()) << " | " << aluno.getNome() << " | " << aluno.getCurso() << " | " << aluno.getNumero() << " | " << aluno.getMedia() << endl;
+            }
+
+            break;
+        }
+        case 3: {
+            cout << "Introduza o número do aluno que deseja mudar a média ";
+            int alunoNumero;
+            cin >> alunoNumero;
+
+            bool alunoEncontrado = false;
+
+            for (Aluno aluno : turma) {
+                if (aluno.getNumero() == alunoNumero) {
+                    float novaMedia;
+                    leMedia(novaMedia);
+                    aluno.setMedia(novaMedia);
+                    alunoEncontrado = true;
+                    cout << "Média atualizada com sucesso." << endl;
+                    break;
+                }
+            }
+            if (!alunoEncontrado) {
+                cout << "Aluno não existe..." << endl;
+            }
+            break;
+        }
+        case 4: {
+            cout << "Guardar em ficheiro...\n";
+            ofstream outputFile("turma.txt");
+
+            if (outputFile.is_open()) {
+                for (Aluno aluno : turma) {
+                    outputFile << aluno.getNome() << " | " << aluno.getCurso() << " | " << aluno.getNumero() << " | " << aluno.getMedia() << endl;
+                }
+                outputFile.close();
+                cout << "Dados gravados com sucesso." << endl;
+            }
+            else {
+                cout << "Erro ao abrir 'turma.txt'." << endl;
+            }
+
+            break;
+        }
+        case 0: {
+            break; }
+        default: {
+            cout << "Opção inválida. Tenta outra vez." << endl; }
+        }
+    }
+    return 0;
+}

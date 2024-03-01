@@ -1,4 +1,0 @@
-C:\zzzAulaJAVA6out\desafios1\obj\Debug\net6.0\desafios1.GeneratedMSBuildEditorConfig.editorconfig
-C:\zzzAulaJAVA6out\desafios1\obj\Debug\net6.0\desafios1.AssemblyInfoInputs.cache
-C:\zzzAulaJAVA6out\desafios1\obj\Debug\net6.0\desafios1.AssemblyInfo.cs
-C:\zzzAulaJAVA6out\desafios1\obj\Debug\net6.0\desafios1.csproj.CoreCompileInputs.cache
