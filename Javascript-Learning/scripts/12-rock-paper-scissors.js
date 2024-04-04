@@ -82,4 +82,24 @@ function autoplay(){
         isRunning = false;
     } 
 }
+
+document.querySelector('.js-rock-button').addEventListener('click', () =>{play('rock')});
+document.querySelector('.js-paper-button').addEventListener('click', () =>{play('paper')});
+document.querySelector('.js-scissors-button').addEventListener('click', () =>{play('scissors')});
+
+document.body.addEventListener('keydown', (event)=>{
+    console.log(event.key)
+    switch(event.key){
+        case "r":
+            play('rock');
+            break;
+        case 'p':
+            play('paper');
+            break;
+        case 's':
+            play('scissors');
+            break;
+    }
+
+})
 updateScoreElement();

@@ -9,7 +9,6 @@ const todolist = [{
 rendertodolist();
 function rendertodolist() {
     let todolistHTML = '';
-
     for (let i = 0; i < todolist.length; i++) {
         const todoObject = todolist[i];
         const {name, duedate} = todoObject;
