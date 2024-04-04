@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arrays and loops</title>
+</head>
+
+<body>
+    <script>
+        // const myarray = [10, 20, 30];
+
+        // console.log(myarray);
+        // console.log(myarray[1]);
+        // myarray[0] = 99;
+        // console.log(myarray);
+
+        // [1, 'hello', true, { name: 'socks' }, [1, 2]];
+
+        // console.log(typeof [1, 2]);
+        // console.log(Array.isArray([1, 2]));
+
+        // console.log(myarray.length);
+
+        // myarray.push(100)
+        // console.log(myarray);
+
+        // myarray.splice(0, 1) // first value is where does it start, second is how many values it removes/splices
+
+        const array1 = [1,2,3];
+        const array2 = array1.slice();
+        array2.push(4);
+        console.log(array1);
+        console.log(array2);
+
+        const [firstValue, secondValue] = [1,2,3];
+        for(let i =1; i<=10; i++){
+            if(i%3 ===0){
+                continue;
+            }
+            console.log(i);
+            if(i===8){
+                break;
+            }
+        }
+        let i = 1;
+        while(i <=10){
+            if(i % 3 ===0){
+                i++;
+                continue;
+            }
+            console.log(i);
+            i++;
+        }
+
+        function doubleArray(){
+            const nums = [1,2,3];
+            const numsDoubled = [];
+            
+            for(let i=0; i <nums.length;i++){
+                const num = nums[i];
+                numsDoubled.push(num*2);
+            }
+            console.log(numsDoubled);
+        }
+        doubleArray([1,2,3]);
+        doubleArray([2,2,5]);
+
+    </script>
+</body>
+
+</html>

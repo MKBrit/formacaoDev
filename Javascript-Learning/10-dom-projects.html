@@ -70,7 +70,8 @@
             const inputElement = document.querySelector('.js-cost-input');
             let cost = Number(inputElement.value);
             const result = cost < 40 ? cost*=1.1 : cost;
-            document.querySelector('.js-total-cost').innerHTML = `Your total order: <b>$${result.toFixed(2)}</b>`;
+            document.querySelector('.js-total-cost')
+                .innerHTML = `Your total order: <b>$${result.toFixed(2)}</b>`;
         }
         function handleCostKeyDown(event){
             console.log(event.key);
